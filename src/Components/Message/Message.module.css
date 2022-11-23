@@ -1,0 +1,26 @@
+.message_my {
+    width: 50%;
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #000000;
+    align-self: flex-end;
+}
+
+.another_persons_message {
+    width: 50%;
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #000000;
+    align-self: flex-start;
+}
+
+.message_title {
+    margin-left: 5px;
+    font-size: 1.3rem;
+    border-bottom: 1px solid #6adcff;
+}
+
+.message_text {
+    font-size: 1.1rem;
+    word-break: break-word;
+}
